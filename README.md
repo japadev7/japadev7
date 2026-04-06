@@ -1,13 +1,13 @@
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins+Bold&size=30&pause=500&color=ffff&start=true&vstart=true&width=900&height=50&lines=Hey%2C++João+Miguel!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins+Bold&size=30&pause=500&color=ffff&start=true&vstart=true&width=900&height=50&lines=Ola!%2C+Eu sou,+João+Miguel!" alt="Typing SVG" />
 </h3>
- 🔭 Desenvolvedor em formação
+ 🎲 Desenvolvedor em formação (Análise de Dados)
  
 ### Tecnologias & Ferramentas
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css,js,python" />
+    <img src="https://skillicons.dev/icons?i=js,,react,html,css,git" />
   </a>
 </p>
 
