@@ -1,5 +1,8 @@
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins+Bold&size=30&pause=500&color=FFFFFF&start=true&vstart=true&width=900&height=50&lines=Olá!,+Eu+sou+João+Miguel!" alt="Typing SVG" />
+    <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins+Bold&size=30&pause=500&color=FFFFFF&width=1200&height=50&lines=Hey%2C+I'm+João+Miguel!"
+    alt="Typing SVG"
+  />
 </h3>
 
 🎲 Desenvolvedor em formação (Análise de Dados)
